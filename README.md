@@ -6,14 +6,14 @@ El modelo permite identificar patrones comunes de pedidos administrativos y agru
 
 ## Objetivo General
 
-Desarrollar un modelo de análisis basado en técnicas de clustering implementado en Python para segmentar y optimizar los procesos administrativos asociados a los registros de organizaciones, pueblos y nacionalidades administrados por la Secretaria de Gestión de Pueblos y Nacionalidades del Ecuador.
+Desarrollar y validar un modelo de análisis basado en técnicas de clustering Jerárquico implementado en Python que permita segmentar y optimizar los registros administrativos asociados a los registros de organizaciones, pueblos y nacionalidades administrados por la Secretaría de Gestión de Pueblos y Nacionalidades del Ecuador, con el fin de optimizar sus procesos administrativos y fortalecer la toma de decisiones institucionales.
 
 ## Objetivos Específicos
 
-- Diagnosticar el estado actual de los registros administrativos de la SGDPN, identificando inconsistencias, datos duplicados, vacíos de datos.
-- Implementar un proceso de preprocesamiento de datos que incluyen depuración, normalización, tratamiento de valores faltantes y codificación de variables para garantizar la calidad de la base analítica.
-- Aplicar algoritmos de clustering, identificando el modelo mas adecuado para segmentar organizaciones, pueblos y nacionalidades.
-- Proponer mejoras para la optimización de los procesos administrativos de la SGDPN que se basen en los resultados de clustering, fortaleciendo la planificación intercultural y la gestión institucional.
+- Diagnosticar el estado actual de los registros administrativos de la secretaría de Gestión de Pueblos y Nacionalidades, identificando problemas de calidad de datos, como inconsistencias, duplicidades, valores faltantes y falta de estandarización.
+- Implementar un proceso integral de limpieza y preprocesamiento de datos, que incluya depuración, tratamiento de valores faltantes y codificación de variables, con el propósito de construir una base de datos confiable.
+- Aplicar y validar técnicas de clustering jerárquico sobre los registros depurados, evaluando la calidad y estabilidad de los clústeres mediante métricas estadísticas, para segmentar organizaciones, pueblos y nacionalidades según la similitud de sus trámites administrativos.
+- Proponer recomendaciones orientadas a la optimización de los procesos administrativos de la SGDPN, que sean accionables para la toma de decisiones gerenciales.
 
 ## Estructura del Proyecto
 
