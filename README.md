@@ -16,7 +16,7 @@ Desarrollar un modelo de análisis basado en técnicas de clustering implementad
 - Proponer mejoras para la optimización de los procesos administrativos de la SGDPN que se basen en los resultados de clustering, fortaleciendo la planificación intercultural y la gestión institucional.
 
 ## Estructura del Proyecto
-
+```text
 tesis_clustering_sgdpn/
 ├── data/
 │ ├── datos_originales/ # Archivos Exel originales
