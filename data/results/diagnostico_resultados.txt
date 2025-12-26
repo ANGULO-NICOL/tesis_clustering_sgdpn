@@ -1,0 +1,6 @@
+DIAGNÓSTICO COMPLETADO
+Inconsistencias identificadas: 4
+- Archivo 1: 2 registros sin nombre de organización
+- Archivo 2: 1 registros sin nombre de organización
+- Archivo 1: 9 números de resolución duplicados
+- Archivo 2: 1 números de resolución duplicados

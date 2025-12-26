@@ -1,0 +1,24 @@
+COMPARACIÓN DE ALGORITMOS DE CLUSTERING
+==================================================
+
+RESUMEN:
+- Mejor algoritmo: Jerárquico
+- Score Silhouette: 0.516
+- Comunidades analizadas: 100
+
+DETALLE POR ALGORITMO:
+
+K-Means:
+  Score Silhouette: 0.472
+  Ventajas: Rápido, escalable, bueno para datos esféricos
+  Desventajas: Requiere especificar K, sensible a outliers
+
+DBSCAN:
+  Score Silhouette: 0.434
+  Ventajas: No requiere K, detecta outliers, encuentra clusters no esféricos
+  Desventajas: Sensible a parámetros, no funciona bien con densidad variable
+
+Jerárquico:
+  Score Silhouette: 0.516
+  Ventajas: Visualización dendrograma, no requiere K inicial
+  Desventajas: Computacionalmente costoso, sensible a outliers

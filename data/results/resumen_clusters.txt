@@ -1,0 +1,53 @@
+RESUMEN DE CLUSTERING DE COMUNIDADES
+==================================================
+
+Total comunidades analizadas: 100
+Número óptimo de clusters: 9
+Score Silhouette: 0.472
+
+DETALLE DE CLUSTERS:
+
+CLUSTER 0 (6 comunidades):
+  -  SGDPN-OTZ5-2023-0191-M...: 1 comunidades
+  - PERSONERÍA JURÍDICA | Personería jurídica de las c...: 1 comunidades
+  - NO ESPECIFICADO...: 1 comunidades
+
+CLUSTER 1 (19 comunidades):
+  - PERSONERIA JURIDICA | Personería jurídica a organi...: 19 comunidades
+  - REGISTRO DE DIRECTIVA | Registro y actualización d...: 12 comunidades
+  - SGDPN-SGDPN-2024-0672-E...: 1 comunidades
+
+CLUSTER 2 (15 comunidades):
+  - INCLUSIÓN DE SOCIOS | Registro de inclusión y/o ex...: 15 comunidades
+  - REGISTRO DE DIRECTIVA | Registro y actualización d...: 15 comunidades
+  -  SGDPN-OTZ5-2023-0139-M...: 0 comunidades
+
+CLUSTER 3 (21 comunidades):
+  - PERSONERIA JURIDICA | Personería jurídica de las c...: 21 comunidades
+  - NO ESPECIFICADO...: 3 comunidades
+  - PERSONERIA JURIDICA | Personería jurídica a organi...: 1 comunidades
+
+CLUSTER 4 (16 comunidades):
+  - REGISTRO DE DIRECTIVA | Registro y actualización d...: 16 comunidades
+  - INCLUSION Y EXCLUSION DE SOCIOS | Registro de incl...: 6 comunidades
+  - EXCLUSIÓN DE SOCIOS | Registro de inclusión y/o ex...: 2 comunidades
+
+CLUSTER 5 (3 comunidades):
+  - REFORMA DE ESTATUTO | Reforma y mejoramiento del E...: 3 comunidades
+  - REGISTRO DE DIRECTIVA | Registro y actualización d...: 2 comunidades
+  - PERSONERIA JURIDICA | Registro y otorgamiento de p...: 1 comunidades
+
+CLUSTER 6 (10 comunidades):
+  - INCLUSION DE SOCIOS | Registro de inclusión y/o ex...: 10 comunidades
+  - REGISTRO DE DIRECTIVA | Registro y actualización d...: 10 comunidades
+  - REFORMA DE ESTATUTO | Reforma y mejoramiento del E...: 1 comunidades
+
+CLUSTER 7 (3 comunidades):
+  - REGISTRO DE DIRECTIVA | Registro y actualización d...: 3 comunidades
+  - INCLUSION DE SOCIOS | Registro de inclusión y/o ex...: 2 comunidades
+  - SGDPN-SGDPN-2025-1343-E...: 1 comunidades
+
+CLUSTER 8 (7 comunidades):
+  - INCLUSIÓN Y EXCLUSIÓN DE SOCIOS | Registro de incl...: 7 comunidades
+  - REGISTRO DE DIRECTIVA | Registro y actualización d...: 7 comunidades
+  -  SGDPN-OTZ5-2023-0191-M...: 0 comunidades

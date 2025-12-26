@@ -1,0 +1,66 @@
+ANÁLISIS DE CARACTERÍSTICAS DE CLUSTERS
+==================================================
+
+RESUMEN EJECUTIVO:
+- Total clusters: 9
+- Total comunidades: 100
+- Comunidades con información de provincia: 5
+
+DISTRIBUCIÓN POR TIPO DE TRÁMITE:
+- Otros: 6 comunidades (6%)
+- Legalización: 40 comunidades (40%)
+- Membresía: 32 comunidades (32%)
+- Gestión interna: 19 comunidades (19%)
+- Actualización: 3 comunidades (3%)
+
+DETALLE POR CLUSTER:
+
+Cluster 0:
+  Comunidades: 6
+  Pedido principal:  SGDPN-OTZ5-2023-0191-M...
+  Frecuencia: 1/6
+  Provincia común: BOLIVAR
+
+Cluster 1:
+  Comunidades: 19
+  Pedido principal: PERSONERIA JURIDICA | Personería jurídica a organi...
+  Frecuencia: 19/19
+  Provincia común: MANABÍ
+
+Cluster 2:
+  Comunidades: 15
+  Pedido principal: INCLUSIÓN DE SOCIOS | Registro de inclusión y/o ex...
+  Frecuencia: 15/15
+
+Cluster 3:
+  Comunidades: 21
+  Pedido principal: PERSONERIA JURIDICA | Personería jurídica de las c...
+  Frecuencia: 21/21
+  Provincia común: MORONA SANTIAGO
+
+Cluster 4:
+  Comunidades: 16
+  Pedido principal: REGISTRO DE DIRECTIVA | Registro y actualización d...
+  Frecuencia: 16/16
+  Provincia común: COTOPAXI
+
+Cluster 5:
+  Comunidades: 3
+  Pedido principal: REFORMA DE ESTATUTO | Reforma y mejoramiento del E...
+  Frecuencia: 3/3
+
+Cluster 6:
+  Comunidades: 10
+  Pedido principal: INCLUSION DE SOCIOS | Registro de inclusión y/o ex...
+  Frecuencia: 10/10
+
+Cluster 7:
+  Comunidades: 3
+  Pedido principal: REGISTRO DE DIRECTIVA | Registro y actualización d...
+  Frecuencia: 3/3
+  Provincia común: PASTAZA
+
+Cluster 8:
+  Comunidades: 7
+  Pedido principal: INCLUSIÓN Y EXCLUSIÓN DE SOCIOS | Registro de incl...
+  Frecuencia: 7/7

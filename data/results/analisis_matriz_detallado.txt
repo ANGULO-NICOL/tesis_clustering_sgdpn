@@ -1,0 +1,14 @@
+ANÁLISIS DETALLADO DE LA MATRIZ
+==================================================
+
+Comunidades totales: 712
+Pedidos únicos: 153
+Densidad: 0.7509%
+
+DISTRIBUCIÓN DE PEDIDOS POR COMUNIDAD:
+  1 pedido(s): 612 comunidades (86.0%)
+  2 pedido(s): 94 comunidades (13.2%)
+  3 pedido(s): 6 comunidades (0.8%)
+
+Comunidades con 2+ pedidos: 100
+Porcentaje de pares que comparten: 39.5%

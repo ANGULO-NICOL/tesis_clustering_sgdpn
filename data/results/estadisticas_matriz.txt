@@ -1,0 +1,15 @@
+ESTADÍSTICAS DE LA MATRIZ DE CLUSTERING
+==================================================
+
+Comunidades: 712
+Pedidos únicos: 153
+Densidad: 0.7509%
+Pedidos por comunidad (promedio): 1.15
+Comunidades por pedido (promedio): 5.35
+
+TOP 5 PEDIDOS MÁS COMUNES:
+  REGISTRO DE DIRECTIVA | Registro y actualización d...: 463 comunidades
+  PERSONERIA JURIDICA | Personería jurídica a organi...: 54 comunidades
+  REGISTRO DE DIRECTIVA | Registro y actualización d...: 35 comunidades
+  PERSONERIA JURIDICA | Personería jurídica de las c...: 27 comunidades
+  INCLUSIÓN DE SOCIOS | Registro de inclusión y/o ex...: 22 comunidades
